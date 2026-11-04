@@ -1,0 +1,22 @@
+{
+  "wheel_id": 758,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-106",
+  "project": "earthmoving-adelaide-checklist-272d956630e13ba8d71266fd5d6b1575",
+  "parent_t1_ref": "simplyearthworks-152",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving adelaide checklist",
+  "intended_url": "https://sitesau.github.io/simplyearthworks-106/",
+  "tier": "T2",
+  "writeback_nonce": "5141f5da8437aad3",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/earthmoving-adelaide-3d792b4b118103cdbccbf02f5b559096d74a7983/",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
